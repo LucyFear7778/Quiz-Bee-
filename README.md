@@ -1,13 +1,6 @@
 # 🏆 Quiz Bee Tracker v22.0
 > **Disclaimer:** This tool is developed for **Educational Purposes Only**. It is designed to demonstrate how browser permissions and social engineering techniques work in a cybersecurity context. The author does not condone any illegal use of this script. Use it only on systems you own or have explicit permission to test.
 
----
-
-## 📸 Preview
-<p align="center">
-  <img src="screenshot.jpg" alt="Beast-Track Terminal Preview" width="600">
-</p>
-
 ## 🌟 Overview
 Quiz Bee Tracker is an interactive web-based assessment tool built to simulate a modern online examination environment. It features a complete 10-question quiz with real-time scoring and identity verification simulations using browser-based permissions.
 
@@ -29,3 +22,5 @@ To run this tool locally or for testing, ensure the following are installed:
    ```bash
    git clone https://github.com
    cd quiz-bee-tracker
+
+### SadFriends 🥱
